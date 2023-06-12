@@ -1,1 +1,1 @@
-k8s.gcr.io/ingress-nginx/asia.gcr.io/k8s-artifacts-prod/ingress-nginx/controller@sha256:21d4a29c8bbab9a8f3ec44615c39d8cf3349afef07c4058f72da5f1f99a86ad3
+From k8s.gcr.io/ingress-nginx/asia.gcr.io/k8s-artifacts-prod/ingress-nginx/controller@sha256:21d4a29c8bbab9a8f3ec44615c39d8cf3349afef07c4058f72da5f1f99a86ad3
