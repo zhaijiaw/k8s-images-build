@@ -1,1 +1,1 @@
-from asia.gcr.io/k8s-artifacts-prod/ingress-nginx/kube-webhook-certgen@sha256:bc5a0b609322c39e3b6a6a3f7fcfb17378d899e8ca93f9f4de91881ec289c377
+From  k8s.gcr.io/ingress-nginx/kube-webhook-certgen@sha256:bc5a0b609322c39e3b6a6a3f7fcfb17378d899e8ca93f9f4de91881ec289c377
